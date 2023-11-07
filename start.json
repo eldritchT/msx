@@ -1,0 +1,6 @@
+{    
+    "name": "Airwatch",
+    "version": "1.3c",
+    "parameter": "menu:https://lolhie3.github.io/msx/menu.json",
+    "welcome": "none"
+}
