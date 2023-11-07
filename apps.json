@@ -5,8 +5,8 @@
    },
    "items":[
       {
-         "title":"Launcher",
-         "titleFooter":"Оф. приложение",
+         "title":"Launcher MSX",
+         "titleFooter":"Офиц. приложение",
          "icon":"home-filled",
          "action":"menu:request:interaction:init@https://launcher.msx.benzac.de/interaction"
       }
