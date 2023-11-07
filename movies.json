@@ -2,7 +2,7 @@
    "type":"list",
    "template":{
       "type":"separate",
-      "layout":"4,0,4,3",
+      "layout":"0,0,3.5,3",
       "imageWidth":"2",
       "imageFiller":"height-center",
       "color":"msx-glass"
