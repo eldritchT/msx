@@ -19,5 +19,9 @@
         }, {
             "icon": "#18aa9c:music-note",
             "label": "Музыка (cкоро)"
+        }, {
+            "icon": "#18aa9c:shop",
+            "label": "Приложения",
+			"data":"https://lolhie3.github.io/msx/apps.json"
         }]
 }
