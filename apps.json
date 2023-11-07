@@ -1,0 +1,18 @@
+{
+   "type":"grid",
+   "template":{
+      "type":"separate",
+      "layout":"0,0,3,3",
+      "imageWidth":"2",
+      "imageFiller":"height-center",
+      "color":"msx-glass"
+   },
+   "items":[
+      {
+         "title":"Launcher",
+         "titleFooter":"Оф. приложение",
+         "icon":"home-filled",
+         "action":"menu:request:interaction:init@https://launcher.msx.benzac.de/interaction"
+      }
+   ]
+}
