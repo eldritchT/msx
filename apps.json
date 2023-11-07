@@ -15,7 +15,7 @@
       }, {
          "title":"Soundcloud",
          "titleFooter":"Музыка",
-         "icon":"videogame-asset",
+         "icon":"music-note",
 		   "color":"#8c0000",
          "action":"menu:user:https://sc.msx.benzac.de/msx/service.php"
       }
