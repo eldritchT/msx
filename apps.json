@@ -1,15 +1,23 @@
 {
    "type":"grid",
    "template":{
+      "type":"separate",
       "layout":"0,0,3,3",
       "color":"msx-glass"
    },
    "items":[
       {
-         "title":"Launcher MSX",
-         "titleFooter":"Офиц. приложение",
-         "icon":"home-filled",
-         "action":"menu:request:interaction:init@https://launcher.msx.benzac.de/interaction"
+         "title":"Twitch",
+         "titleFooter":"Стриминг",
+         "icon":"videogame-asset",
+		   "color": "#8c45f7",
+         "action":"menu:request:interaction:init@https://ttv.msx.benzac.de/interaction"
+      }, {
+         "title":"Soundcloud",
+         "titleFooter":"Музыка",
+         "icon":"videogame-asset",
+		   "color":"#8c0000",
+         "action":"menu:user:https://sc.msx.benzac.de/msx/service.php"
       }
    ]
 }
