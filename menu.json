@@ -1,9 +1,9 @@
 {
     "headline": "tangram.tv",
     "style": "flat-separator",
-    "dictionary": "http://lolhie.github.io/msx/lang_ru.json",
+    "dictionary": "https://lolhie3.github.io/msx/lang_ru.json",
     "transparent": 2,
-    "background": "http://msx.benzac.de/media/wallpaper1.jpg",
+    "background": "https://msx.benzac.de/media/wallpaper1.jpg",
     "menu": [{
             "type": "separator",
             "label": "{col:#18aa9c}Контент",
