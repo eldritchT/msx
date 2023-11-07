@@ -3,7 +3,6 @@
    "template":{
       "type":"separate",
       "layout":"0,0,3.5,3",
-      "imageWidth":"2",
       "imageFiller":"height-center",
       "color":"msx-glass"
    },
