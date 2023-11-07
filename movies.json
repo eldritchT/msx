@@ -1,0 +1,19 @@
+{
+   "type":"list",
+   "template":{
+      "type":"separate",
+      "layout":"4,0,4,3",
+      "imageWidth":"2",
+      "imageFiller":"height-center",
+      "color":"msx-glass"
+   },
+   "items":[
+      {
+         "title":"Приключения Электроника",
+         "titleFooter":"Комедия",
+         "image":"https://i3.ytimg.com/vi/Yow9YxRnR70/maxresdefault.jpg",
+         "playerLabel":"Приключения Электроника",
+         "action":"video:plugin:http://msx.benzac.de/plugins/youtube.html?id={ID}"
+      }
+   ]
+}
