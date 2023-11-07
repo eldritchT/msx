@@ -13,7 +13,7 @@
          "titleFooter":"Комедия",
          "image":"https://i3.ytimg.com/vi/Yow9YxRnR70/maxresdefault.jpg",
          "playerLabel":"Приключения Электроника",
-         "action":"video:plugin:http://msx.benzac.de/plugins/youtube.html?id={ID}"
+         "action":"video:plugin:http://msx.benzac.de/plugins/youtube.html?id=Yow9YxRnR70"
       }
    ]
 }
