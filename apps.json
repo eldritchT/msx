@@ -1,6 +1,7 @@
 {
    "type":"grid",
    "template":{
+      "layout":"0,0,3,3",
       "color":"msx-glass"
    },
    "items":[
