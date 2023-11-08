@@ -1,27 +1,25 @@
 {
-    "headline": "tangram.tv",
-    "style": "flat-separator",
-    "dictionary": "https://lolhie3.github.io/msx/lang_ru.json",
-    "transparent": 2,
-    "background": "https://msx.benzac.de/media/wallpaper1.jpg",
-    "menu": [{
-            "type": "separator",
-            "label": "{col:#18aa9c}Контент",
-            "lineColor": "#18aa9c"
-        }, {
-            "icon": "#18aa9c:tv",
-            "label": "Телеканалы",
-            "data": "http://msx.benzac.de/services/m3u.php?headline=%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D1%8B&background=http://msx.benzac.de/media/wallpaper1.jpg&type=video&mode=list&url=https://lolhie3.github.io/msx/okkotv.m3u"
-        }, {
-            "icon": "#18aa9c:movie",
-            "label": "Фильмы",
-            "data": "https://lolhie3.github.io/msx/movies.json"
-        }, {
-            "icon": "#18aa9c:music-note",
-            "label": "Музыка (cкоро)"
-        }, {
-            "icon": "#18aa9c:shop",
-            "label": "Приложения",
-			"data":"https://lolhie3.github.io/msx/apps.json"
-        }]
+   "name": "Tangram",
+   "headline": "Tangram",
+   "style": "overlay-separator",
+   "dictionary": "https://lolhie3.github.io/msx/lang_ru.json",
+   "transparent": 2,
+   "background": "https://msx.benzac.de/media/wallpaper1.jpg",
+   "menu": [
+      {
+         "icon": "#18aa9c:tv",
+         "label": "Телеканалы",
+         "data": "http://msx.benzac.de/services/m3u.php?headline=%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D1%8B&background=http://msx.benzac.de/media/wallpaper1.jpg&type=video&mode=list&url=https://lolhie3.github.io/msx/okkotv.m3u"
+      },
+      {
+         "icon": "#18aa9c:movie",
+         "label": "Фильмы",
+         "data": "https://lolhie3.github.io/msx/movies.json"
+      },
+      {
+         "icon": "#18aa9c:shop",
+         "label": "Приложения",
+         "data": "https://lolhie3.github.io/msx/apps.json"
+      }
+   ]
 }
