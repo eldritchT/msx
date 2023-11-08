@@ -10,13 +10,19 @@
          "title":"Twitch",
          "titleFooter":"Стриминг",
          "icon":"videogame-asset",
-		   "color": "#8c45f7",
+		 "color": "#8c45f7",
          "action":"menu:request:interaction:init@https://ttv.msx.benzac.de/interaction"
+      }, {
+         "title":"Fork Browser",
+         "titleFooter":"Интернет",
+         "icon":"language",
+		 "color": "#6548b5",
+         "action":"link:http://browser.appfxml.com/"
       }, {
          "title":"Soundcloud",
          "titleFooter":"Музыка",
          "icon":"music-note",
-		   "color":"#8c0000",
+		 "color":"#8c0000",
          "action":"menu:user:https://sc.msx.benzac.de/msx/service.php"
       }
    ]
